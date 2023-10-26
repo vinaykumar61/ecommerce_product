@@ -93,9 +93,7 @@ DATABASES = {
         'PORT': '3307',  # Default MySQL port
     }
 }
-git config --global user.email "vinaymwn97@gmail.com"
-git config --global user.email "you@example.com"
-  git config --global user.name "vinaykumar61"
+
 
 
 
